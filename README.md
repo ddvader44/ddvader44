@@ -10,4 +10,6 @@
 ### Contact Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dishit-duggar-2765a0185/)
 
-![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&hide=issues,contribs,prs&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark)
