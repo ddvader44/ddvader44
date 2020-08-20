@@ -1,7 +1,11 @@
 ### Hey, its Dishit 👋
 
 - 🔭 I’m an Android Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning Advanced Android Concepts like Dagger and RxJava and Building cross platform apps with React-Native.
+- 🌱 I’m currently learning Advanced Android Concepts like Dagger and RxJava and Building cross platform apps with React-Native.  
+
+   
+   
+![Alt Text](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
 
 ### My Skills
 
@@ -12,4 +16,4 @@
 
 ![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&hide=issues,contribs,prs&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark)  
