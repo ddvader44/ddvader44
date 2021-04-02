@@ -1,8 +1,7 @@
 <h1 align="center">Hey, its Dishit 👋</h1>
 
 - 🔭 I’m an Android Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning Advanced Android Concepts like Dagger and RxJava and Learning more about Blockchain Technology.  
-
+- 🌱 I’m currently learning Web Development and Blockchain Development.
    
  <div align="center">
    <img width="320px" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif"></img> 
