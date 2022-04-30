@@ -50,4 +50,4 @@
 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddvader44.ddvader44)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark) ![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&hide=contris,issues&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark)![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&hide=contris,issues&theme=dark) 
