@@ -1,17 +1,53 @@
-<h1 align="center">Hey, its Dishit 👋 </h1>
+## Hi, Dishit here!    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Android_robot_head.png"></img>
 
 - 🔭 I’m an Android Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning Frontend Development and Blockchain Development.
+- 🌱 I’m currently learning DSA.
    
- <div align="center">
-   <img width="320px" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif"></img> 
-</div>
 
-### My Skills
+#### Tech Stack:
 
-<img src="https://img.shields.io/badge/android--%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/java--%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/kotlin--%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/c++--%2300599C.svg?&style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/react--%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/mysql--%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/git--%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/blockchain--%233DDC84.svg?&style=for-the-badge&logo=ethereum&logoColor=white" /> 
+<a href="" title="Android">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="Android" width="40px" height="40px">
+</a>
 
-### Contact Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dishit-duggar-2765a0185/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddvader44.ddvader44)
+<a href="" title="Android Studio">
+<img src="https://developer.android.com/studio/images/studio-icon-preview.svg" alt="Android" width="40px" height="40px">
+</a>
+
+<a href="https://www.java.com/" title="Java">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="40px" height="40px">
+</a>
+
+<a href="https://www.firebase.com/" title="Firebase">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="40px" height="40px">
+</a>
+
+<a href="https://www.python.org/" title="Python">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">
+</a>
+
+<a href="" title="Kotlin">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="40px" height="40px">
+</a>
+
+<a href="" title="Blockchain">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/ethereum.svg" alt="Blockchain" width="40px" height="40px">
+</a>
+
+<a href="" title="C">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="C" width="40px" height="40px">
+</a>
+
+<a href="" title="C++">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="CPP" width="40px" height="40px">
+</a>
+
+#### Connect with me !
+  
+&nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="20px" height="20px">](mailto:dduggar06@gmail.com)
+&nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px">](https://www.linkedin.com/in/dishit-duggar-2765a0185/)
+&nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/twitter.svg" alt="Twitter" width="20px" height="20px">](https://twitter.com/DishitDuggar)
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddvader44.ddvader44)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark) ![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&hide=contris,issues&theme=dark) 
