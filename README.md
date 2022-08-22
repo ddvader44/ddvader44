@@ -48,6 +48,9 @@
 &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px">](https://www.linkedin.com/in/dishit-duggar-2765a0185/)
 &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/twitter.svg" alt="Twitter" width="20px" height="20px">](https://twitter.com/DishitDuggar)
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddvader44.ddvader44)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddvader44&layout=compact&theme=dark)![Dishit's github stats](https://github-readme-stats.vercel.app/api?username=ddvader44&hide=contris,issues&theme=dark) 
+#### My git stats
+<table>
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=ddvader44&show_icons=true&count_private=true" alt="1"></td>
+   </tr> 
+</table>
