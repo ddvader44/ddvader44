@@ -1,7 +1,7 @@
 ## Hi, Dishit here!    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Android_robot_head.png"></img>
 
-- 🔭 I’m an Android Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning DSA.
+- 🔭 I’m a Software Developer currently pursuing my undergrad in CSE from VIT,Vellore.
+- 🌱 I’m currently learning ReactJS and Shell Scripting.
    
 
 #### Tech Stack:
@@ -40,6 +40,26 @@
 
 <a href="" title="C++">
 <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="CPP" width="40px" height="40px">
+</a>
+
+<a href="" title="HTML">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="CPP" width="40px" height="40px">
+</a>
+
+<a href="" title="CSS">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CPP" width="40px" height="40px">
+</a>
+
+<a href="" title="JavaScript">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="CPP" width="40px" height="40px">
+</a>
+
+<a href="" title="Linux">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg" alt="CPP" width="40px" height="40px">
+</a>
+
+<a href="" title="AWS">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" alt="CPP" width="40px" height="40px">
 </a>
 
 #### Connect with me !
