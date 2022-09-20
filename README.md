@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Software Developer currently pursuing my undergrad in CSE from VIT,Vellore.
 - 🌱 I’m currently learning ReactJS and Shell Scripting.
-   
+- 🚚 Incoming SDE Intern @ Amazon 
 
 #### Tech Stack:
 
