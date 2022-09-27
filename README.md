@@ -43,23 +43,27 @@
 </a>
 
 <a href="" title="HTML">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="CPP" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="40px" height="40px">
 </a>
 
 <a href="" title="CSS">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CPP" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS" width="40px" height="40px">
 </a>
 
 <a href="" title="JavaScript">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="CPP" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px">
 </a>
 
 <a href="" title="Linux">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg" alt="CPP" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg" alt="Linux" width="40px" height="40px">
 </a>
 
 <a href="" title="AWS">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" alt="CPP" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" alt="AWS" width="40px" height="40px">
+</a>
+
+<a href="" title="Spring">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="40px" height="40px">
 </a>
 
 #### Connect with me !
