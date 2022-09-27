@@ -1,7 +1,7 @@
 ## Hi, Dishit here!    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Android_robot_head.png"></img>
 
 - 🔭 I’m a Software Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning ReactJS and Shell Scripting.
+- 🌱 I’m currently learning ReactJS, Spring Boot and Shell Scripting.
 - 🚚 Incoming SDE Intern @ Amazon 
 
 #### Tech Stack:
