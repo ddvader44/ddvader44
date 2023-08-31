@@ -71,10 +71,3 @@
 &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="20px" height="20px">](mailto:dduggar06@gmail.com)
 &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px">](https://www.linkedin.com/in/dishit-duggar-2765a0185/)
 &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/twitter.svg" alt="Twitter" width="20px" height="20px">](https://twitter.com/DishitDuggar)
-
-#### My git stats
-<table>
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=ddvader44&show_icons=true&count_private=true" alt="1"></td>
-   </tr> 
-</table>
