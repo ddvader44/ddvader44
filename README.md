@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Software Developer currently working at 🚚 Amazon.
 - 🌱 I’m currently learning to build tolerant and highly scalable systems.
-- 🌱 Checkout my tech blog [here](https://dishdd.hashnode.dev/).
+- ✍️ Checkout my tech blog [here](https://dishdd.hashnode.dev/).
 
 #### Tech Stack:
 
