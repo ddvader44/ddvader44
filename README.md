@@ -1,8 +1,8 @@
 ## Hi, Dishit here!    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Android_robot_head.png"></img>
 
-- 🔭 I’m a Software Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning ReactJS, Spring Boot and Shell Scripting.
-- 🚚 SDE Intern @ Amazon 
+- 🔭 I’m a Software Developer currently working at 🚚 Amazon.
+- 🌱 I’m currently learning to build tolerant and highly scalable systems.
+- 🌱 Checkout my tech blog [here](https://dishdd.hashnode.dev/).
 
 #### Tech Stack:
 
